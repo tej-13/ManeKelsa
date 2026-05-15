@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --background: #FDFCF9;
+  --on-background: #1C1B17;
+  --primary: #6750A4;
+  --on-primary: #FFFFFF;
+  --primary-container: #EADDFF;
+  --on-primary-container: #21005D;
+  --secondary: #625B71;
+  --on-secondary: #FFFFFF;
+  --secondary-container: #E8DEF8;
+  --on-secondary-container: #1D192B;
+  --surface: #FDFCF9;
+  --on-surface: #1C1B17;
+  --surface-variant: #E7E0EB;
+  --on-surface-variant: #49454F;
+  --outline: #79747E;
+}
+
+body {
+  @apply bg-[#FDFCF9] text-[#1C1B17] antialiased;
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Student Task Manager",
+  "description": "A Material 3 inspired task manager for students with persistent SQLite storage.",
+  "requestFramePermissions": []
+}
