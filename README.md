@@ -23,3 +23,9 @@ Digital Local Job Board.
 
 ## How to Run
 1. Clone the repo
+
+## Screenshots
+<img width="720" height="1600" alt="ManeKelsa 2" src="https://github.com/user-attachments/assets/2558f627-3e0d-4ea5-b78b-d2512f26b1ac" />
+<img width="720" height="1600" alt="ManeKelsa 1" src="https://github.com/user-attachments/assets/4d802011-68ab-41fa-9fa2-d7b2f776f542" />
+
+   
